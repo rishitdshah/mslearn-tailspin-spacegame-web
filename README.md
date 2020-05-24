@@ -1,3 +1,4 @@
+[![Build Status](https://dexterslaboratory.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/rishitdshah.mslearn-tailspin-spacegame-web?branchName=master)](https://dexterslaboratory.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
